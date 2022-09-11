@@ -1,7 +1,7 @@
 # Tutorial: Finding and fixing errors in Java code
 
 This tutorial shows how to find and fix errors in Java code with the help of IntelliJ IDEA.
-This is test eight.
+This is test eight. Let's try git push.
 
 IntelliJ IDEA automatically checks the code, highlights the possible problems, and offers
 suggestions on how to fix these problems.
