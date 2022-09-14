@@ -4,6 +4,7 @@ This tutorial shows how to find and fix errors in Java code with the help of Int
 This is test nine. Let's try git push. What else can we say.
 Once a year, go some place you've never been before.
 So what's your main focus for today?
+This is a local change.
 
 IntelliJ IDEA automatically checks the code, highlights the possible problems, and offers
 suggestions on how to fix these problems.
@@ -23,9 +24,9 @@ with the code sample, unarchive it, and open it in IntelliJ IDEA.
 
 If you are not sure how to open a project, here is [an instruction to help you](https://www.jetbrains.com/help/idea/import-project-or-module-wizard.html#open-project).
 
-> The JDK version is not important for the current project. 
-> If after opening the project IntelliJ IDEA warns you 
-> that a certain version of JDK is missing and offers to download it, 
+> The JDK version is not important for the current project.
+> If after opening the project IntelliJ IDEA warns you
+> that a certain version of JDK is missing and offers to download it,
 > you can ignore this notification.
 
 ### Option 2: Copying the tutorial code sample
@@ -133,7 +134,7 @@ There are two suggestions to fix the error:
 
 With one click, you've just fixed two errors in lines 5 and 6.
 
-The syntax is now correct, so IntelliJ IDEA tries to compile the program one more time 
+The syntax is now correct, so IntelliJ IDEA tries to compile the program one more time
 and checks it for any other problems.
 As a result of such a check, IDE finds two new errors and adds them to the list.
 Let's look into it.
@@ -201,7 +202,7 @@ In the "Problems" tab, you can see the message *"No problems in Area.java"*.
 
 As no more problems are highlighted, let's run the program and find out what's the area of a rectangle is.
 
-> For detailed instructions on how to build and run Java applications, refer to [this guide](https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html#run_app). 
+> For detailed instructions on how to build and run Java applications, refer to [this guide](https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html#run_app).
 
 To run the program:
 
@@ -214,7 +215,7 @@ To run the program:
 IntelliJ IDEA compiles and then runs the program.
 The result is shown in the run tool window below.
 
-The output is `Process finished with exit code 0`, 
+The output is `Process finished with exit code 0`,
 which means the program was executed successfully without errors.
 
 And here comes the result of the calculations for the parameters we set:
