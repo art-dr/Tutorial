@@ -56,6 +56,7 @@ If you need help creating a new project in IntelliJ IDEA, you can refer to these
 ### Moving on
 
 This is how the project should look like:
+Or not
 
 ![IntelliJ IDEA full-screen window of a project with a code example](/static/highlighted-problems.png)
 
