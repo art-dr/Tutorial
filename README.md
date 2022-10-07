@@ -82,6 +82,7 @@ Let's start with the typo.
 
 ## Fixing a typo
 
+Let's get this fetch.
 There is a typo in the name of the `int` variable `length` in line 6.
 This typo is also the cause of one warning (`Variable 'leength' is never used`)
 and one error (`Cannot resolve symbol 'length'`).
